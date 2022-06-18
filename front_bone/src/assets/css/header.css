@@ -1,0 +1,137 @@
+/* .bg-light {
+    background-color: blue !important;
+} */
+
+
+/* ******************************* CSS******************************************************** */
+
+div.navbar {
+    background-color: #f2f2f2 !important;
+    font-weight: 500 !important;
+    font-size: 15px !important;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    /* background: #d7d4dd !important; */
+    /* background: #f2f1f4 !important; */
+    /* position: fixed; */
+    box-shadow: rgb(0 0 0 / 50%) 0px 2px 4px 0px;
+}
+
+/*******************************************  Menu CSS  */
+.navbar-toggler.custom-btn {
+    position: absolute;
+    cursor: pointer;
+    top: 20px;
+    margin-left: 70%;
+}
+
+button.custom-btn div.line-menubar {
+    height: 2px;
+    width: 20px;
+    margin: 5px 0px;
+    background-color: #00a7ff;
+}
+
+button.navbar-toggler {
+    border: #302c38 2px solid !important;
+}
+
+button.navbar-toggler:hover {
+    border: #302c38 2px solid !important;
+}
+/*
+.navbar-nav a:hover {
+    color: #bd6f29;
+    text-decoration: none;
+
+} */
+/*******************************************  Menu CSS  */
+
+
+.fwc_pa {
+    /* font white color on p and a */
+    text-decoration: none;
+    /* color: #302c38; */
+    /* color: #00a7ff; */
+    color: #01064a;
+    margin-left: 50px;
+    /* font-weight: 500; */
+    font-size: 15px;
+}
+.fwc_spa {
+    color: #01064a !important;
+
+}
+
+.linktoboostinorbit{
+  /* text-decoration: none; */
+  /* color: #302c38; */
+  /* color: #00a7ff; */
+  color: #01064a;
+  margin-left: 50px;
+  /* font-weight: 500; */
+  font-size: 15px;
+}
+.linktoboostinorbit:hover{
+  color: #01064a !important;
+}
+
+/*
+.margin-right-60 {
+    margin-right: 60%;
+} */
+
+.button_fwc_pa{
+  text-decoration: none;
+  /* color: #302c38; */
+  margin-left: 50px;
+  /* font-weight: 500; */
+  font-size: 15px;
+
+  /* color: red; */
+  /* background-color: #da9558; */
+  /* background-color: #00d7ff; */
+  background-color: linear-gradient(67deg,#00d7ff -30%,#01064a);
+  border-color: #faf2ea;
+  padding: 0.2rem 1.0rem;
+
+}
+
+.button_fwc_pa:hover{
+  text-decoration: none;
+  /* color: #302c38; */
+  margin-left: 50px;
+  /* font-weight: 500; */
+  font-size: 15px;
+
+  /* color: blue; */
+  /* background-color: #958da5; */
+  /* background-color: #958da5; */
+  border-color: #302c38;
+  padding: 0.2rem 1.0rem;
+
+
+}
+
+.navbar-nav a:hover {
+    /* color: #bd6f29; */
+    color: #c87137;
+    text-decoration: none;
+}
+
+.separator {
+    margin-bottom: 15px;
+    position: relative;
+    width: 250px;
+    height: 5px;
+    background: linear-gradient(to right, #3fb698 25%, #9aecd8 100%);
+}
+
+.centered {
+    text-align: center !important;
+}
+
+.bold {
+    font-weight: bolder;
+}

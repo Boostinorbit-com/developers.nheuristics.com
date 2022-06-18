@@ -1,0 +1,16 @@
+
+
+.footer{
+  height: 20rem;
+  width:100%;
+  background-color: #f2f2f2;
+}
+.declaration{
+  text-decoration: none;
+  /* color: #302c38; */
+  color: #00a7ff;
+  /* margin-left: 50px; */
+  text-align: center;
+  /* font-weight: 500; */
+  font-size: 15px;
+}

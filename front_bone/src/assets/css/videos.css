@@ -1,0 +1,33 @@
+
+.youtube{
+  height: 400px;
+  width: 550px;
+  background:  #f2f2f2;
+  background-color: #f2f2f2;
+  border: 15px solid white;
+  /* margin-left: 15%; */
+}
+
+.player{
+  background-color: green;
+  height: 300px;
+  width: 500px;
+  margin-left: 5px;
+  margin-top: 25px;
+}
+
+.delta-members{
+  text-align: center;
+  /* font-weight: bold; */
+  margin-top: 2%;
+}
+
+.card{
+   width: 18rem;
+   /* border: 1 rem solid red; */
+   background-color: #f2f2f2;
+   border: 15px solid white;
+}
+.card-title{
+  text-align: center;
+}
